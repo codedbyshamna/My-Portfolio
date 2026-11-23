@@ -12,7 +12,7 @@ import {
 
 export const contactDetails = {
   email: 'shamnap.s003@gmail.com',
-  phone: '56 638 8713',
+  phone: '+971 56 638 8713',
 }
 
 export const education = [
@@ -24,13 +24,14 @@ export const education = [
     status: 'COMPLETED',
   },
   {
-    degree: "Bachelor's degree",
-    institution: 'Institution details to be added',
-    detail: 'Add degree, institution and dates',
+    degree: 'BSc Statistics',
+    institution: 'University of Calicut',
+    detail: "Bachelor's degree in Statistics",
     icon: GraduationCap,
-    status: 'DETAILS PENDING',
+    status: 'COMPLETED',
   },
 ]
+
 
 export const skillGroups = [
   { title: 'Programming', icon: Code2, skills: ['Python', 'C++', 'SQL'] },
