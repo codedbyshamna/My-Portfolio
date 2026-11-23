@@ -99,13 +99,15 @@ export const projects = [
   },
 ]
 
-export const experience = [
+  {export const experience = [
   {
     role: 'Data Science Intern',
     organization: 'Cognifyz Technologies',
-    dates: 'Dates to be added',
-    description: 'Internship responsibilities and project details to be added.',
+    dates: 'May 2025 – June 2025',
+    description: 'Worked on data analysis and data science tasks using Python, explored datasets, performed data cleaning and analysis, and developed insights through data visualization.',
     icon: BriefcaseBusiness,
+  },
+]
   },
 ]
 
