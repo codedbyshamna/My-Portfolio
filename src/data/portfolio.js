@@ -99,7 +99,7 @@ export const projects = [
   },
 ]
 
-  {export const experience = [
+export const experience = [
   {
     role: 'Data Science Intern',
     organization: 'Cognifyz Technologies',
