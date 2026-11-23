@@ -12,7 +12,7 @@ import {
 
 export const contactDetails = {
   email: 'shamnap.s003@gmail.com',
-  phone: '+971 56 638 8713',
+  phone: '++971 56 638 8713',
 }
 
 export const education = [
