@@ -112,8 +112,11 @@ export const projects = [
 ]
 
 export const certifications = [
-  { title: 'Certification details to be added', provider: 'Provider to be added', icon: BrainCircuit },
-  { title: 'Certification details to be added', provider: 'Provider to be added', icon: Database },
-  { title: 'Certification details to be added', provider: 'Provider to be added', icon: WandSparkles },
+  { title: 'GUVI–HCL Employability Program', provider: 'HCL GUVI in collaboration with SRM University · Aug 2025 – Feb 2026', icon: BrainCircuit },
+  { title: 'Python for Data Science', provider: 'NPTEL', icon: Database },
+  { title: 'Virtual Internship in AI and Machine Learning', provider: 'Google for Developers', icon: WandSparkles },
+  { title: 'AI for All', provider: 'Intel / Digital India Initiative', icon: BrainCircuit },
+  { title: 'Fundamentals of Cybersecurity', provider: 'Zscaler', icon: Code2 },
+  { title: 'Data Analysis using Advanced Excel', provider: 'JDT Islam College', icon: BarChart3 },
 ]
 
