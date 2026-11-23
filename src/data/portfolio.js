@@ -101,13 +101,18 @@ export const projects = [
 
 export const experience = [
   {
+    role: 'Data Science Intern / Final Semester Project',
+    organization: 'The Mind IT',
+    dates: 'Dec 2025 – Mar 2026',
+    description: 'Worked on a purchasing tendency community classification project focused on e-commerce clients. Analyzed customer and product-related data using multi-feature search-based approaches and explored graph-based and sequential approaches for purchasing pattern analysis. Completed the project under external guidance as part of the Applied Data Science programme.',
+    icon: BriefcaseBusiness,
+  },
+  {
     role: 'Data Science Intern',
     organization: 'Cognifyz Technologies',
     dates: 'May 2025 – June 2025',
-    description: 'Worked on data analysis and data science tasks using Python, explored datasets, performed data cleaning and analysis, and developed insights through data visualization.',
+    description: 'Performed exploratory data analysis on restaurant-related datasets, conducted data preparation and feature engineering for customer behavior analysis, and created visualizations using Matplotlib, Seaborn, and Folium.',
     icon: BriefcaseBusiness,
-  },
-]
   },
 ]
 
